@@ -17,4 +17,10 @@ int main()
     cout << ">= Menulis file, \'q\' untuk keluar" << endl;
 
     //unlimited loop untuk menulis file
+    while (true)
+    {
+
+        cout << "- ";
+        //mendapat setiap karakter dalam satu baris
+    }
 }
