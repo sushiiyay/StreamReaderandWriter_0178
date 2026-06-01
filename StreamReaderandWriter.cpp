@@ -9,5 +9,6 @@ int main()
     //deklarasi variabel baris untuk menyimpan data string
     string baris;
 
-    //membykka f
+    //membuka file dalam mode menulis
+    of
 }
